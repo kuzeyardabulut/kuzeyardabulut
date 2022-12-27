@@ -1,16 +1,11 @@
 ### Hi there 👋
-I'm a student who is very passionate about cyber security. I have experience in Reverse Engineering, Exploit Development and Cloud Security.  I'm improving myself in Binary Exploitation.
+I'm a student who is very passionate about cyber security. I have experience in Cloud Security, Reverse Engineering and Exploit Development. I'm improving myself in Binary Exploitation.
 
 :computer: **Website:**
 
 * [kuzeyardabulut.com](https://kuzeyardabulut.com/)
 <br>
 <br>
-
-
-
-
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuzeyardabulut&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuzeyardabulut&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
