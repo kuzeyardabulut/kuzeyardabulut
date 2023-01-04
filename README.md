@@ -7,7 +7,7 @@ I'm a student who is very passionate about cyber security. I have experience in 
 <br>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuzeyardabulut&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuzeyardabulut&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
