@@ -1,5 +1,5 @@
  # 💫 About Me
-🌱 I’m currently learning **Linux Kernel Development**<br><br>📝 I regularly write articles on [kuzey.rs](https://kuzey.rs)<br><br>📫 Reach me: **kuzeyardabulut@gmail.com**<br><br>📄 Know about my experiences in [here](https://kuzeyardabulut.com/Kuzey's_Resume.pdf)
+🌱 I’m currently learning **Linux Kernel Development**<br><br>📝 I regularly write articles on [kuzey.rs](https://kuzey.rs)<br><br>📄 Know about my experiences in [here](https://kuzeyardabulut.com/Kuzey's_Resume.pdf)
 
 <br>
 
