@@ -11,9 +11,6 @@
   <a href="http://twitter.com/kuzeyardabulut">
     <img src="https://img.shields.io/twitter/follow/aporlorxl23?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
-  <a href="https://github.com/kuzeyardabulut?tab=followers">
-    <img src="https://img.shields.io/github/followers/kuzeyardabulut?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-  </a>
   <a href="https://linkedin.com/in/kuzeyardabulut"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
