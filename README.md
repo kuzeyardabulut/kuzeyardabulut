@@ -11,7 +11,6 @@
 <br><br>
 <p align="center">
 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kuzeyardabulut&include_all_commits=true&count_private=true&show_icons=true&theme=codeSTACKr"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuzeyardabulut&layout=compact&hide=html&theme=codeSTACKr" alt="kuzeyardabulut"/>
 
 </p>
