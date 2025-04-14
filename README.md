@@ -10,6 +10,5 @@
 
 <br><br>
 <p align="center">
-
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuzeyardabulut&layout=compact&hide=html&theme=codeSTACKr" alt="kuzeyardabulut"/>
 </p>
